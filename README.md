@@ -4,34 +4,20 @@
 2048小游戏，eaxy图形库框架，c/c++代码实现
 
 #### 软件架构
-软件架构说明
+1. 用户界面层：负责与用户交互，包括游戏界面的显示、用户输入的响应等。可以使用Qt等GUI库实现。
+2. 游戏逻辑层：负责游戏规则的实现，包括数字块的移动、合并、得分计算等。可以使用C++语言实现。
+3. 数据存储层：负责游戏数据的存储和读取，包括游戏得分、最高分等。可以使用文件存储或数据库存储实现。
+4. 网络通信层（可选）：负责与服务器进行通信，实现在线排行榜等功能。可以使用TCP/IP协议实现。
+5. 其他辅助模块：如音效模块、帮助模块等。
+整个软件的构架可以采用MVC（Model-View-Controller）模式，将游戏逻辑层作为模型层，用户界面层作为视图层，数据存储层作为控制层，实现各层之间的解耦和灵活性。 
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+上课上班摸鱼
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
