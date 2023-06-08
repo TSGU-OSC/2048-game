@@ -5,7 +5,7 @@
 
 工程文件提交到：https://gitee.com/TSGU-OAOSS/2048-game
 
-命名方式参照：(author's name)'s_GameAchieve(or GameDebug)
+命名方式参照：[(author's name)'s_GameAchieve(or GameDebug)](http://gitee.com/TSGU-OAOSS/2048-game/tree/master/village‘s_GameDebug)
 
 #### 安装要求
 由于本游戏使用了easyx图形库，所以在运行游戏前需要您安装此简单图形库，可从easyx库官网下载。
