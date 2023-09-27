@@ -3,6 +3,11 @@
 #### 介绍
 2048小游戏，在有限空间内合成更大数字的游戏，使用了c++和easyx图形库。通过该游戏，您可以提升自己对空间和数据的运用能力。当然，也可以在无聊的时候把它当成打发时间的小玩意。
 
+#### 游戏玩法
+按住键盘键上下左右或A、W、S、D进行移动，每两个相邻的相同方块可以进行合并，利用自己的空间管理能力尽量将方块的数字变大，目前最大为2的11次幂，也就是2048。
+
+
+####贡献项目
 工程文件提交到：https://gitee.com/TSGU-OAOSS/2048-game
 
 命名方式参照：[(author's name)'s_GameAchieve(or GameDebug)](http://gitee.com/TSGU-OAOSS/2048-game/tree/master/village‘s_GameDebug)
