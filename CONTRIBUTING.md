@@ -29,7 +29,7 @@
     ```
 2. 在此目录下新建目录，以内容命名
     ```bash
-    cd ./collection
+    cd ./project
     mkdir your_directory
     ```
 3. 进入您刚刚创建的目录，将您的新项目放入到目录下并创建编辑您的markdown文档
